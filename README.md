@@ -1,3 +1,7 @@
+<video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
+  <source src="https://res.cloudinary.com/fikhihakim-project/video/upload/v1736163828/niko-oneshot-pixel-moewalls-com_ccbo5t.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1 align="center">Hi 👋, I'm Fikhi Hakim</h1>
 <h3 align="center">A passionate Junior Web developer from Indonesia</h3>
