@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakim393&label=Profile%20views&color=0e75b6&style=flat" alt="hakim393" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakim393" alt="hakim393" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hakimm404" target="blank"><img src="https://img.shields.io/twitter/follow/hakimm404?logo=twitter&style=for-the-badge" alt="hakimm404" /></a> </p>
 
 - 🌱 I’m currently learning **Scikit-Learn, XGBoost, TensorFlow, Keras, PyTorch**
